@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TAREA
 {
-    public partial class Form1 : Form
+    public partial class TareaEjer1 : Form
     {
-        public Form1()
+        public TareaEjer1()
         {
             InitializeComponent();
         }
@@ -62,4 +62,4 @@ namespace TAREA
         }
     }
 }
-    
+
