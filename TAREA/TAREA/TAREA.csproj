@@ -54,6 +54,12 @@
     <Compile Include="TareaEjer1.Designer.cs">
       <DependentUpon>TareaEjer1.cs</DependentUpon>
     </Compile>
+    <Compile Include="TareaEjer2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareaEjer2.Designer.cs">
+      <DependentUpon>TareaEjer2.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -65,6 +71,9 @@
     </Compile>
     <EmbeddedResource Include="TareaEjer1.resx">
       <DependentUpon>TareaEjer1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareaEjer2.resx">
+      <DependentUpon>TareaEjer2.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
